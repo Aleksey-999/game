@@ -1,0 +1,31 @@
+Z:\&Itog\SeaWar\SeaWar\bin\Debug\SeaWar.exe.config
+Z:\&Itog\SeaWar\SeaWar\bin\Debug\SeaWar.exe
+Z:\&Itog\SeaWar\SeaWar\bin\Debug\SeaWar.pdb
+Z:\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.csprojAssemblyReference.cache
+Z:\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.Properties.Resources.resources
+Z:\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.csproj.GenerateResource.cache
+Z:\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.csproj.CoreCompileInputs.cache
+Z:\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.exe
+Z:\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.pdb
+G:\C#\Новая папка\2\&Itog\SeaWar\SeaWar\bin\Debug\SeaWar.exe.config
+G:\C#\Новая папка\2\&Itog\SeaWar\SeaWar\bin\Debug\SeaWar.exe
+G:\C#\Новая папка\2\&Itog\SeaWar\SeaWar\bin\Debug\SeaWar.pdb
+G:\C#\Новая папка\2\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.csprojAssemblyReference.cache
+G:\C#\Новая папка\2\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.Form1.resources
+G:\C#\Новая папка\2\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.Properties.Resources.resources
+G:\C#\Новая папка\2\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.csproj.GenerateResource.cache
+G:\C#\Новая папка\2\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.csproj.CoreCompileInputs.cache
+G:\C#\Новая папка\2\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.exe
+G:\C#\Новая папка\2\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.pdb
+Z:\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.FormGame.resources
+Z:\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.FormStart.resources
+D:\C#\&Itog\SeaWar\SeaWar\bin\Debug\SeaWar.exe.config
+D:\C#\&Itog\SeaWar\SeaWar\bin\Debug\SeaWar.exe
+D:\C#\&Itog\SeaWar\SeaWar\bin\Debug\SeaWar.pdb
+D:\C#\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.csprojAssemblyReference.cache
+D:\C#\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.FormGame.resources
+D:\C#\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.FormStart.resources
+D:\C#\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.Properties.Resources.resources
+D:\C#\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.csproj.GenerateResource.cache
+D:\C#\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.exe
+D:\C#\&Itog\SeaWar\SeaWar\obj\Debug\SeaWar.pdb
